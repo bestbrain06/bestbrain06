@@ -6,6 +6,8 @@
   - [Working with dates](https://github.com/bestbrain06/age-calculator.git)
 - <b>Social Links Profile (HTML, CSS)</b>
   - [Links to my social media platforms](https://github.com/bestbrain06/social-links-profile.git)
+- <b> Frontend Mentor Weather App (HTML, CSS, JAVASCRIPT , API) </b>
+    - [working with Api's](https://github.com/bestbrain06/weather-app.git)
 
 
 <!--
